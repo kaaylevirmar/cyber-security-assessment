@@ -42,7 +42,7 @@ const CandidatesPage = () => {
 
   return (
     <div className='px-20'>
-      <h1 className='text-2xl pt-6 pb-2'>Candidates</h1>
+      <h1 className='text-2xl pt-6 pb-2 font-bold'>Candidates</h1>
       <div className='flex justify-between pb-1'>
         <div className='flex gap-4 text-gray-400'>
           <button className='hover:text-gray-700' onClick={() => handleFetchData('all')}>All Applicants ({allApplicantsData.length})</button>
