@@ -1,0 +1,16 @@
+[
+    {
+      "full_name": "Kyle Virmar Millendez",
+      "location": "123 Example Street, City, Country",
+      "experience": 5,
+      "date_applied": "September 8, 2025",
+      "role_fit": "High"
+    },
+    {
+      "full_name": "Jane Doe",
+      "location": "456 Maple Avenue, Town, Country",
+      "experience": 3,
+      "date_applied": "October 12, 2025",
+      "role_fit": "Medium"
+    }
+  ]
